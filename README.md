@@ -56,7 +56,7 @@ Upload to GitHub Pages for free hosting.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio Website</title>
+    <title>BRINDHA A R - Portfolio</title>
     <style>
         /* Global Styles */
         * {
@@ -89,7 +89,7 @@ Upload to GitHub Pages for free hosting.
         }
 
         .logo {
-            font-size: 24px;
+            font-size: 20px;
             font-weight: bold;
             color: #007bff;
         }
@@ -110,11 +110,12 @@ Upload to GitHub Pages for free hosting.
             color: #007bff;
         }
 
-        /* Hero / Introduction Section */
+        /* Hero / Introduction Section with Profile Image */
         .hero {
             height: 100vh;
             background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://picsum.photos/1920/1080') no-repeat center center/cover;
             display: flex;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
             text-align: center;
@@ -122,13 +123,23 @@ Upload to GitHub Pages for free hosting.
             padding: 0 20px;
         }
 
+        .profile-img {
+            width: 130px;
+            height: 130px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 4px solid #fff;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+            margin-bottom: 20px;
+        }
+
         .hero-content h1 {
-            font-size: 48px;
-            margin-bottom: 15px;
+            font-size: 42px;
+            margin-bottom: 10px;
         }
 
         .hero-content p {
-            font-size: 20px;
+            font-size: 18px;
             margin-bottom: 25px;
         }
 
@@ -230,7 +241,7 @@ Upload to GitHub Pages for free hosting.
 
     <!-- Header & Navigation Bar -->
     <header>
-        <div class="logo">MyPortfolio</div>
+        <div class="logo">BRINDHA A R</div>
         <nav>
             <a href="#intro">Home</a>
             <a href="#about">About</a>
@@ -239,11 +250,12 @@ Upload to GitHub Pages for free hosting.
         </nav>
     </header>
 
-    <!-- Introduction Section -->
+    <!-- Introduction Section with Profile Image -->
     <section id="intro" class="hero">
+        <img src="images/profile.jpg" alt="BRINDHA A R" class="profile-img">
         <div class="hero-content">
-            <h1>Hello, I'm a Web Developer</h1>
-            <p>Welcome to my professional portfolio showcasing my projects and skills.</p>
+            <h1>Hello, I'm BRINDHA A R</h1>
+            <p>Welcome to my professional portfolio showcasing my projects and skills as a Web Developer.</p>
             <a href="#projects" class="btn">View My Work</a>
         </div>
     </section>
@@ -281,14 +293,14 @@ Upload to GitHub Pages for free hosting.
         <h2>Contact Details</h2>
         <p>Feel free to reach out to me for collaborations or inquiries.</p>
         <div class="contact-info">
-            <p><strong>Email:</strong> developer@example.com</p>
+            <p><strong>Email:</strong> brindha@example.com</p>
             <p><strong>Phone:</strong> +1 (555) 987-6543</p>
         </div>
     </section>
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2026 MyPortfolio. All rights reserved.</p>
+        <p>&copy; 2026 BRINDHA A R. All rights reserved.</p>
     </footer>
 
 </body>
