@@ -311,12 +311,11 @@ Upload to GitHub Pages for free hosting.
 
 
 ## OUTPUT
+<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/e5ac6e87-b560-4328-ba72-3c938e631a34" />
+<img width="1917" height="976" alt="image" src="https://github.com/user-attachments/assets/dc3c1f3c-d4bc-4b26-8b9f-b622d567f9c7" />
+<img width="1917" height="1040" alt="image" src="https://github.com/user-attachments/assets/e7bd46e0-86a5-44a2-9500-d1394f009b98" />
 
-<img width="1905" height="907" alt="image" src="https://github.com/user-attachments/assets/47c4dadf-8359-485d-a3fe-84a228c7846a" />
 
-<img width="1905" height="898" alt="image" src="https://github.com/user-attachments/assets/157420f9-8185-463c-83e2-9c391d9fca71" />
-
-<img width="1883" height="892" alt="image" src="https://github.com/user-attachments/assets/5af231d9-43d6-4334-9709-94f11e70bd3a" />
 
 
 ## RESULT
